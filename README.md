@@ -1,1 +1,1 @@
-I'm going to recreate the google homepage and demostrate my ability of using developer tools and HTMl & CSS.
+Here's my recreation of google.com for the odin project! Learned a lot from this. Any tips would be great!
