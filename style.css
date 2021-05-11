@@ -1,0 +1,48 @@
+body {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+
+.list {
+    list-style-type: none;
+    margin-right: 20px;
+    margin-left: -30px;
+}
+nav ul li{
+    margin-right: 0;
+    padding: 10px;
+    display: inline;
+    text-align: center;
+}
+body a:visited {
+        color: black;
+        text-decoration: none;
+}
+body a:link {
+    color: black;
+    text-decoration: none;
+}
+body a:active {
+    color: black;
+    text-decoration: underline;
+}
+body a:hover {
+    color: black;
+    text-decoration: underline;
+}
+.navbar-left {
+    float: left;
+}
+.navbar-right {
+    float: right;
+}
+.google {
+    width: 272px;
+   
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px
+}
